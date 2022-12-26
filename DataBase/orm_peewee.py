@@ -3,7 +3,7 @@ import peewee
 conn = peewee.PostgresqlDatabase(
     'test2',
     user='postgres',
-    password='4.100.20.1001.Aden',
+#     password
     host='localhost',
     port='5432'
 )
